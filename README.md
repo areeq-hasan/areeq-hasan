@@ -1,4 +1,2 @@
-![Areeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=areeq-hasan&count_private=true&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areeq-hasan&count_private=true&show_icons=true&theme=dracula)
+![Areeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=areeq-hasan&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)
 
